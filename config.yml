@@ -1,4 +1,4 @@
-baseURL: "https://www.lieskovsky.com/"
+baseURL: "https://lieskovsky.com/"
 title: Adam Lieskovsky
 paginate: 5
 theme: PaperMod
@@ -45,10 +45,6 @@ params:
     favicon32x32: "<link / abs url>"
     apple_touch_icon: "<link / abs url>"
     safari_pinned_tab: "<link / abs url>"
-
-  label:
-    text: "Home"
-    iconHeight: 35
 
   # home-info mode
   homeInfoParams:
