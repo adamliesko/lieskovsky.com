@@ -1,0 +1,110 @@
+baseURL: "https://lieskovsky.com/"
+title: Adam Lieskovsky
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Adam Lieskovsky
+  description: "Adam Lieskovsky personal ramblings"
+  keywords: [Blog, Personal Site, PaperMod]
+  author: Adam Lieskovsky
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "<link / abs url>"
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "Home"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Welcome to Adam's personal site \U0001F44B!"
+    Content: "Professionally, I am a Software Engineer currently working at Palantir. To amuse myself I tend to do sports and get lost in nature. You will find me writing about the perils of Software Engineering, sports and living life as a Slovak expat in the ⛰️ Switzerland."
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/adamliesko"
+    - name: github
+      url: "https://github.com/adamliesko"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/adamliesko/"
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  editPost:
+    URL: "https://github.com/adamliesko/lieskovsky.com/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+# pygmentsUseClasses: true
+# markup:
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         style: monokai
