@@ -2,6 +2,8 @@
 title: "Copy paste programmer and mediocricity"
 date: 2021-11-27T11:39:33+01:00
 draft: true
+categories:
+- Software Engineering
 # weight: 1
 # aliases: ["/first"]
 tags: ["software engineering", "programming"]
