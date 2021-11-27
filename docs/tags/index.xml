@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Adam Lieskovsky</title>
-    <link>https://lieskovsky.com/tags/</link>
+    <link>https://adamliesko.github.io/lieskovsky.com/tags/</link>
     <description>Recent content in Tags on Adam Lieskovsky</description>
     <image>
-      <url>https://lieskovsky.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://lieskovsky.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://adamliesko.github.io/lieskovsky.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://adamliesko.github.io/lieskovsky.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 27 Nov 2021 11:39:33 +0100</lastBuildDate><atom:link href="https://lieskovsky.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Nov 2021 11:39:33 +0100</lastBuildDate><atom:link href="https://adamliesko.github.io/lieskovsky.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>programming</title>
-      <link>https://lieskovsky.com/tags/programming/</link>
+      <link>https://adamliesko.github.io/lieskovsky.com/tags/programming/</link>
       <pubDate>Sat, 27 Nov 2021 11:39:33 +0100</pubDate>
       
-      <guid>https://lieskovsky.com/tags/programming/</guid>
+      <guid>https://adamliesko.github.io/lieskovsky.com/tags/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>software engineering</title>
-      <link>https://lieskovsky.com/tags/software-engineering/</link>
+      <link>https://adamliesko.github.io/lieskovsky.com/tags/software-engineering/</link>
       <pubDate>Sat, 27 Nov 2021 11:39:33 +0100</pubDate>
       
-      <guid>https://lieskovsky.com/tags/software-engineering/</guid>
+      <guid>https://adamliesko.github.io/lieskovsky.com/tags/software-engineering/</guid>
       <description></description>
     </item>
     

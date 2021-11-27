@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://lieskovsky.com/sitemap.xml
+Sitemap: https://adamliesko.github.io/lieskovsky.com/sitemap.xml
