@@ -56,7 +56,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Welcome to Adam's personal site \U0001F44B!"
-    Content: "Professionally, I am a Software Engineer currently working at Palantir. To amuse myself I tend to do sports and get lost in nature. You will find me writing about the perils of Software Engineering, sports and living life as a Slovak expat in the ⛰️ Switzerland."
+    Content: "Professionally, I am a Software Engineer currently working at Palantir. To amuse me I tend to do sports and get lost in nature. You will find me writing about the perils of Software Engineering, sports, and living life as a Slovak expat in ⛰️ Switzerland."
 
   socialIcons:
     - name: twitter
